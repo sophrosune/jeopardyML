@@ -7,49 +7,68 @@
   <points>400</points>
   <points>500</points>
 
-  <category title="Examples">
+  <category title="Bills, Bills, Bills">
     <riddle>
       <clue>
         <img src="nasa_iss.jpg" />
-        The first element of this space station (Credit: NASA) flew to space on Nov. 20 1998.
+        You trifling
+        (Good for nothing type of brother)
+        Silly me
+        (Why haven’t I found another)
+
+        Bill’s little brother put his ambition before his family.
       </clue>
       <solution>
-        What is the ISS?
+        Who is Percy?
       </solution>
     </riddle>
     <riddle>
       <clue>
         <img src="nasa_iss.jpg" style="height:30%" />
-        The first element of this space station flew to space on Nov. 20 1998.(Credit: NASA)
+        Something's going down that's the way it seems
+        Shouldn't be the reason why you're acting strange
+
+        Bill went through a few changes after this character attacked him.
       </clue>
       <solution>
-        What is the ISS?
+        Who is Fenrir Greyback?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        The first element of this space station (Credit: NASA) flew to space on Nov. 20 1998.
+        All the honeys, who making money
+        Throw your hands up at me
+
+        Bill works for Gringotts as this.
+      </clue>
+      <solution>
+        What is a cursebreaker?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        Lead with hips, slap my thighs
+        Swing my hair, square my eyes
+        Lookin' hot, smellin' good
+
+        Bill’s wife is part this species.
+      </clue>
+      <solution>
         <img src="nasa_iss.jpg" />
-      </clue>
-      <solution>
-        What is the ISS?
+        What is Veela?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        The first element of this space station flew to space on Nov. 20 1998.
+        After all of the darkness and sadness
+        Soon comes happiness
+        If I surround myself with positive things
+        I'll gain prosperity
+
+        Bill and Fleur named their first child this to represent winning the war against Volde.. I meant He Who Must Not Be Named.
       </clue>
       <solution>
-        <img src="nasa_iss.jpg" />
-        What is the ISS? (Credit: NASA)
-      </solution>
-    </riddle>
-    <riddle>
-      <clue>
-        The first element of this space station flew to space on Nov. 20 1998.
-      </clue>
-      <solution>
-        What is the ISS?
+        What/Who is Victoire?
       </solution>
     </riddle>
   </category>
